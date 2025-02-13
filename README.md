@@ -1,6 +1,7 @@
 # Blogging Website
 
-    A full-stack blogging website built with **React** (frontend) and **Node.js/Express** (backend). This project allows users to create, read, update, and delete blog posts, along with user authentication and       other features.
+    A full-stack blogging website built with **React** (frontend) and **Node.js/Express** (backend). 
+    This project allows users to create, read, update, and delete blog posts, along with user authentication and other features.
 
 ---
 
