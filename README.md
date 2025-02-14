@@ -48,7 +48,7 @@ Follow these instructions to set up the project locally on your machine.
 - **MongoDB**: Install MongoDB locally or use a cloud service like [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
 - **Git**: Install Git from [here](https://git-scm.com/).
 
-### Installation
+## Installation
 
 1. **Clone the repository**:
    ```bash
